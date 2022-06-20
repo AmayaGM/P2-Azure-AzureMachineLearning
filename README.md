@@ -1,8 +1,8 @@
-# Practica 3 IA
+# Practica 3 Azure Machine Learning
 
 Crear un entorno de ejecucion de Azure Machine Learning
 
-**Paso 1 _Buscar ml.azure.com _**
+**Paso 1 _Buscar ml.azure.com_**
 - Poner en el buscador la pagina ml.azure.com
 ![Paso 1.1](/imagenes/p1_1.png)
 - Iniciar sesion con la cuenta

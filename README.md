@@ -1,4 +1,4 @@
-# Practica 3 Azure ml
+# Practica 3 Azure Machine Learning y Python
 
 Crear un entorno de ejecucion de Azure Machine Learning
 
